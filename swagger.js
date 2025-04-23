@@ -4,9 +4,9 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "게시판 API",
+      title: "회원 정보 API",
       version: "1.0.0",
-      description: "게시글 관련 REST API 문서입니다.",
+      description: "회원 정보 관련 REST API 문서입니다.",
     },
     servers: [
       {
